@@ -1,0 +1,16 @@
+#box1 {
+  border: 10px solid red;
+  padding: 20px;
+}
+#box2 {
+  border: 10px dashed green;
+}
+h1 {
+  color: purple;
+}
+#title1{
+  color: red;
+}
+#title2{
+  color:blue;
+}
